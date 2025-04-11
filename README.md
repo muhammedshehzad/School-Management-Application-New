@@ -66,7 +66,7 @@ The app supports both **online** and **offline-first** usage. It uses **Firebase
 ## 📦 Installation
 
 1. Clone the repository  
-   `git clone https://github.com/yourusername/school-management-app.git`
+   `git clone https://github.com/muhammedshehzad/School-Management-Application-New.git`
 
 2. Navigate to the project folder  
    `cd school-management-app`
